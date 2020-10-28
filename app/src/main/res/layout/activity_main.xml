@@ -38,10 +38,10 @@
 
         <androidx.recyclerview.widget.RecyclerView
             android:id="@+id/category"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_height="100dp"
             android:orientation="horizontal"
-            tools:listitem="@layout/categoryitemlist" />
+            tools:listitem="@layout/categotyitemlist" />
 
         <TextView
             android:layout_width="match_parent"
