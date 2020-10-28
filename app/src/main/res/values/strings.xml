@@ -3,4 +3,16 @@
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
+    <string name="_150_usd">150 USD</string>
+    <string name="book">book</string>
+    <string name="buy_now">Buy Now</string>
+    <string name="kicthen">Kicthen</string>
+    <string name="kitchen">kitchen</string>
+    <string name="total">Total:</string>
+    <string name="_25_99">$ 25.99</string>
+    <string name="pay_now">Pay Now</string>
+    <string name="versage">Versage</string>
+    <string name="perfume">Perfume</string>
+    <string name="x">X</string>
+    <string name="most_popular">Most Popular</string>
 </resources>

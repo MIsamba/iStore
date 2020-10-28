@@ -7,6 +7,9 @@ import androidx.navigation.findNavController
 import androidx.navigation.ui.AppBarConfiguration
 import androidx.navigation.ui.setupActionBarWithNavController
 import androidx.navigation.ui.setupWithNavController
+import androidx.recyclerview.widget.GridLayoutManager
+import androidx.recyclerview.widget.LinearLayoutManager
+import androidx.recyclerview.widget.RecyclerView
 
 class MainActivity : AppCompatActivity() {
 
@@ -22,5 +25,12 @@ class MainActivity : AppCompatActivity() {
                 R.id.navigation_home, R.id.navigation_dashboard, R.id.navigation_notifications))
         setupActionBarWithNavController(navController, appBarConfiguration)
         navView.setupWithNavController(navController)
+        val category: RecyclerView =findViewById(R.id.category);
+        val popular: RecyclerView =findViewById(R.id.popular);
+
+                category.layoutManager=LinearLayoutManager(this)
+        category.layoutManager=LinearLayoutManager(this,LinearLayoutManager.HORIZONTAL,false)
+        popular.layoutManager=LinearLayoutManager(this)
+        popular.layoutManager=GridLayoutManager(this,2)
     }
 }
