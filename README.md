@@ -1,2 +1,3 @@
-# iStore
-https://us02web.zoom.us/j/89315387077?pwd=d0pSTEcrY29hUFdGSGNtZXJiaDNmdz09
+Istore
+
+https://www.figma.com/file/ZS80v5iP8HkzCukH2zKGDc/iStore
