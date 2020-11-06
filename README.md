@@ -1,3 +1,2 @@
 Istore
-
-https://www.figma.com/file/ZS80v5iP8HkzCukH2zKGDc/iStore
+https://docs.google.com/forms/d/e/1FAIpQLSd2rkwgdhnEWFeHadhufXH4LTqPryBZMBu6Ik-PFuV8g7x39A/viewform
